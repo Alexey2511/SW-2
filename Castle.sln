@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Phone
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Castle", "Castle\Castle\Castle.csproj", "{47702317-3FBD-4571-B421-A4A33C1F85F7}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "CastleContent", "Castle\CastleContent\CastleContent.contentproj", "{DAEC5234-B13D-4C93-A587-367C4FAA391D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47702317-3FBD-4571-B421-A4A33C1F85F7}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{47702317-3FBD-4571-B421-A4A33C1F85F7}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{47702317-3FBD-4571-B421-A4A33C1F85F7}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{47702317-3FBD-4571-B421-A4A33C1F85F7}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{47702317-3FBD-4571-B421-A4A33C1F85F7}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{47702317-3FBD-4571-B421-A4A33C1F85F7}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{DAEC5234-B13D-4C93-A587-367C4FAA391D}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{DAEC5234-B13D-4C93-A587-367C4FAA391D}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,18 @@
+c:\users\alexe_000\documents\visual studio 2012\Projects\Castle\Castle\Castle\bin\Windows Phone\Debug\Castle.dll
+c:\users\alexe_000\documents\visual studio 2012\Projects\Castle\Castle\Castle\bin\Windows Phone\Debug\Castle.pdb
+c:\users\alexe_000\documents\visual studio 2012\Projects\Castle\Castle\Castle\obj\Windows Phone\Debug\Castle.csprojResolveAssemblyReference.cache
+c:\users\alexe_000\documents\visual studio 2012\Projects\Castle\Castle\Castle\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\alexe_000\documents\visual studio 2012\Projects\Castle\Castle\Castle\obj\Windows Phone\Debug\Castle.dll
+c:\users\alexe_000\documents\visual studio 2012\Projects\Castle\Castle\Castle\obj\Windows Phone\Debug\Castle.pdb
+c:\users\alexe_000\documents\visual studio 2012\Projects\Castle\Castle\Castle\bin\Windows Phone\Debug\AppManifest.xaml
+c:\users\alexe_000\documents\visual studio 2012\Projects\Castle\Castle\Castle\obj\Windows Phone\Debug\WMAppManifest.xml.g
+c:\users\alexe_000\documents\visual studio 2012\Projects\Castle\Castle\Castle\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\
+c:\users\alexe_000\documents\visual studio 2012\Projects\Castle\Castle\Castle\bin\Windows Phone\Debug\Castle.xap
+c:\users\alexe_000\documents\visual studio 2012\Projects\Castle\Castle\Castle\obj\Windows Phone\Debug\XapCacheFile.xml
+c:\users\alexe_000\documents\visual studio 2012\Projects\Castle\Castle\Castle\bin\Windows Phone\Debug\Castle.xap
+c:\users\alexe_000\documents\visual studio 2012\Projects\Castle\Castle\Castle\obj\Windows Phone\Debug\XapCacheFile.xml
+c:\users\alexe_000\documents\visual studio 2012\Projects\Castle\Castle\Castle\bin\Windows Phone\Debug\AppManifest.xaml
+c:\users\alexe_000\documents\visual studio 2012\Projects\Castle\Castle\Castle\obj\Windows Phone\Debug\WMAppManifest.xml.g
+c:\users\alexe_000\documents\visual studio 2012\Projects\Castle\Castle\Castle\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\
